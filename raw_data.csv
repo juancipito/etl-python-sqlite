@@ -1,0 +1,25 @@
+transaction_id,transaction_date,customer_name,email,category,amount,status,region,updated_at
+TX-1001,2026-04-01,Avery Stone,avery.stone@example.test,Software,149.90,Completed,North,2026-04-01 10:00:00
+TX-1002,2026/04/02,Morgan Lee,MORGAN.LEE@example.test,soft ware,89.50,done,south,2026-04-02 11:00:00
+TX-1003,04-03-2026,Riley Cruz,riley.cruz@example.test,Hardware,225.00,Pending,,2026-04-03 12:00:00
+TX-1004,2026-04-04,Jordan Vale,jordan.vale@example.test,Training,75,open,East,2026-04-04 09:00:00
+TX-1005,2026-04-05,Casey Moon,casey.moon@example.test,customer support,115.25,complete,West,2026-04-05 15:00:00
+TX-1006,not-a-date,Taylor Reed,taylor.reed@example.test,Software,99.99,Completed,North,2026-04-06 10:00:00
+TX-1007,2026-04-07,Skyler Quinn,invalid-email,Hardware,180.00,Completed,South,2026-04-07 10:00:00
+TX-1008,2026-04-08,,rowan@example.test,Training,65.00,Pending,East,2026-04-08 10:00:00
+TX-1009,2026-04-09,Emery Lane,emery.lane@example.test,Unknown,55.00,Pending,West,2026-04-09 10:00:00
+TX-1010,2026-04-10,Parker Snow,parker.snow@example.test,Support,-20,Completed,North,2026-04-10 10:00:00
+TX-1011,2026-04-11,Drew Lake,drew.lake@example.test,train,not_numeric,Pending,South,2026-04-11 10:00:00
+TX-1012,2026-04-12,Alex River,alex.river@example.test,hard-ware,320.40,canceled,East,2026-04-12 10:00:00
+TX-1013,2026-04-13,Robin Field,robin.field@example.test,Software,210.00,mystery,West,2026-04-13 10:00:00
+TX-1014,2026-04-14,Cameron Hill,cameron.hill@example.test,Support,130.00,Completed,North,2026-04-14 10:00:00
+TX-1014,2026-04-14,Cameron Hill,cameron.hill@example.test,Support,135.00,Completed,North,2026-04-14 11:00:00
+TX-1015,2026-04-15,Finley Gray,finley.gray@example.test,Training,95.00,Pending,South,2026-04-15 10:00:00
+TX-1016,2026-04-16,Harper Dawn,harper.dawn@example.test,Software,175.75,Completed,East,2026-04-16 10:00:00
+TX-1017,2026-04-17,Reese Brook,reese.brook@example.test,Hardware,260.00,Completed,West,2026-04-17 10:00:00
+TX-1018,2026-04-18,Sage Winter,sage.winter@example.test,Support,125.00,Pending,,2026-04-18 10:00:00
+TX-1019,2026-04-19,Blair Cedar,blair.cedar@example.test,Software,149.00,Completed,North,2026-04-19 10:00:00
+TX-1020,2026-04-20,Kendall Fox,kendall.fox@example.test,Training,85.00,Cancelled,South,2026-04-20 10:00:00
+,2026-04-21,Marin Oak,marin.oak@example.test,Support,105.00,Completed,East,2026-04-21 10:00:00
+TX-1022,2026-04-22,Shawn Pine,shawn.pine@example.test,Software,199.99,Completed,West,bad-timestamp
+TX-1023,2026-04-23,Devon Star,devon.star@example.test,Hardware,280.00,Pending,North,2026-04-23 10:00:00
